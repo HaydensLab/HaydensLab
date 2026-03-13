@@ -1,7 +1,7 @@
 # Hello 👋 I'm Hayden
 ## Early career bioinformatician interested in pathogen and cancer genomics, spatial transcriptomics and phylogenetics.
 
-<p align="left">
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="100" height="100" hspace="50">
   <img src="https://yt3.googleusercontent.com/ytc/AIdro_mLp9_kLidvqu9e7Bf4PQboQI-GsmCm14X0K9DPrQQw=s900-c-k-c0x00ffffff-no-rj" width="100" height="100" hspace="50" >
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXYfxwM09dutbGOSvWpRppZ5aRod4n-dZ0lw&s" width="100" height="100" hspace="50" >
