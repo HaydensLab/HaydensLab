@@ -30,8 +30,7 @@ I then went on to do my Master's in Cancer biology and Immunology continuing at 
   <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" width="300" height="500">
 </p>
 
-# Just finished setting up an older rig to do some at home non-cluster HPC work. Might setup for tmux in the future but currently a very long HDMI lol.
-Stats:
+## Older rig for bioinformatics as a workhorse - Currently running comparative genomics of HPV16 sequencing reads.
 CPU: Ryzen 5 2600
 GPU: GTX 1660ti
 Memory: 16GB RAM
