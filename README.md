@@ -31,15 +31,4 @@ I then went on to do my Master's in Cancer biology and Immunology continuing at 
 </p>
 
 
-### Some examples of Repos from projects mentioned above 🫡
-<a href="https://github.com/HaydensLab/CopepodParasite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HaydensLab&repo=CopepodParasite" />
-</a>
-<a href="https://github.com/HaydensLab/HPV16RScripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HaydensLab&repo=HPV16RScripts" />
-</a>
-<a href="https://github.com/HaydensLab/HPV16IntegrationScripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HaydensLab&repo=HPV16IntegrationScripts" />
-</a>
-
 
