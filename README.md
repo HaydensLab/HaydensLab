@@ -22,7 +22,7 @@ I then went on to do my Master's in Cancer biology and Immunology continuing at 
 ### ✨Actively developing✨
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nextflow_logo.png" width="300" height="300" hspace="15">
-  <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" width="300" height="500" hspace="60">
+  <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" width="300" height="500" hspace="15">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="125" height="125" >
 </p>
 <p align="center">
