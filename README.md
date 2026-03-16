@@ -17,7 +17,7 @@ I love pathogens.... not in a weird way I just think as aspects of life they are
 </p>
                                                    
 ### ♋ Cancer genomics and current role
-I then went on to do my Master's in Cancer biology and Immunology continuing at the University of Southampton. I was able in my project to research HPV viral genomics incomporating all I had learned previously performing post-hoc viral lineage analysis by phylogenetics, analysing viral genomic variation between patients. I have worked with FFPE filtered data complemented a parallel human analysis (of the human exome alongside these viral genomes) in Oropharyngeal squamous cell carcinoma (OPSCC).
+I then went on to do my Master's in Cancer biology and Immunology continuing at the University of Southampton. I was able in my project to research HPV viral genomics incomporating all I had learned previously performing post-hoc viral lineage analysis by phylogenetics, analysing viral genomic variation between patients. I have worked with FFPE filtered data complemented a parallel human analysis (of the human exome alongside these viral genomes) in Oropharyngeal squamous cell carcinoma (OPSCC). This work continues actively and is now involving viral integration calling with SurVirus.
 
 ### ✨Actively developing✨
 <p align="left">
