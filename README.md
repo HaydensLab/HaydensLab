@@ -30,11 +30,4 @@ I then went on to do my Master's in Cancer biology and Immunology continuing at 
 </p>
 
 
-## Older rig for bioinformatics as a workhorse - Currently running comparative genomics of HPV16 sequencing reads.
-CPU: Ryzen 5 2600
-GPU: GTX 1660ti
-Memory: 16GB RAM
-Storage: 256GB M.2 + 1TB HDD
-OS core: Windows 11 + WSL2_Ubuntu + Docker desktop (And through WSL2)
-Motherboard: Gigabyte Aorus B450M
 
